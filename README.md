@@ -1,2 +1,2 @@
-# udacity_dl_project_3
-TV-Script generation
+# Udacity Deep Learning Project 3
+In this deep learning project we can generate Simpsons TV Scripts based on RNNs.
